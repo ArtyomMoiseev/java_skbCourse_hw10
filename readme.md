@@ -15,3 +15,7 @@
 ![](md_images/admin.png)
 ##### При авторизации под support
 ![](md_images/support.png)
+## Запуск
+1. Выполните следующие команды:
+`mvn package`
+`mvn spring-boot:run`
